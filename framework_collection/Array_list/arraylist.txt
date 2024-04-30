@@ -1,0 +1,5 @@
+array
+-->
+array it is based on object and primitive data
+arraylist
+array list is based on object only
